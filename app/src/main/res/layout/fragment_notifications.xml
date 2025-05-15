@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/video_cours"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <TextView
+        android:id="@+id/text_notifications"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Видеоуроки от автошколы"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:layout_marginTop="30dp"
+        android:textSize="20sp"
+        android:layout_marginBottom="16dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+           <Button
+               android:id="@+id/lessoncarA"
+               android:background="@drawable/button_selector"
+               android:layout_width="match_parent"
+               android:text="Категория А мотоцикл"
+               android:layout_margin="5dp"
+               android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarB"
+                android:layout_width="match_parent"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:text="Категория B легковой автомобиль"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarC"
+                android:layout_width="match_parent"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:text="Категория C грузовой автомобиль"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarCE"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:text="Категория CE грузовой автомобиль с прицепом"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarD"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:text="Категория D автобус"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarJCB"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:text="Спецтехника JCB категория C"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarBE"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:text="Категория BE легковой автомобиль с прицепом"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/lessoncarA1"
+                android:background="@drawable/button_selector"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:text="Квадроцикл категории А1"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

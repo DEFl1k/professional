@@ -1,0 +1,3202 @@
+{
+  "1": {
+    "1": {
+      "Ticket": 1,
+      "Question": 1
+    },
+    "2": {
+      "Ticket": 2,
+      "Question": 1
+    },
+    "3": {
+      "Ticket": 3,
+      "Question": 1
+    },
+    "4": {
+      "Ticket": 4,
+      "Question": 1
+    },
+    "5": {
+      "Ticket": 5,
+      "Question": 1
+    },
+    "6": {
+      "Ticket": 6,
+      "Question": 1
+    },
+    "7": {
+      "Ticket": 10,
+      "Question": 1
+    },
+    "8": {
+      "Ticket": 11,
+      "Question": 1
+    },
+    "9": {
+      "Ticket": 13,
+      "Question": 1
+    },
+    "10": {
+      "Ticket": 14,
+      "Question": 1
+    },
+    "11": {
+      "Ticket": 15,
+      "Question": 1
+    },
+    "12": {
+      "Ticket": 17,
+      "Question": 1
+    },
+    "13": {
+      "Ticket": 18,
+      "Question": 1
+    },
+    "14": {
+      "Ticket": 19,
+      "Question": 1
+    },
+    "15": {
+      "Ticket": 22,
+      "Question": 1
+    },
+    "16": {
+      "Ticket": 23,
+      "Question": 1
+    },
+    "17": {
+      "Ticket": 25,
+      "Question": 1
+    },
+    "18": {
+      "Ticket": 26,
+      "Question": 1
+    },
+    "19": {
+      "Ticket": 29,
+      "Question": 1
+    },
+    "20": {
+      "Ticket": 30,
+      "Question": 1
+    },
+    "21": {
+      "Ticket": 33,
+      "Question": 1
+    },
+    "22": {
+      "Ticket": 34,
+      "Question": 1
+    },
+    "23": {
+      "Ticket": 35,
+      "Question": 1
+    },
+    "24": {
+      "Ticket": 36,
+      "Question": 1
+    },
+    "25": {
+      "Ticket": 38,
+      "Question": 1
+    }
+  },
+  "2": {
+    "1": {
+      "Ticket": 1,
+      "Question": 2
+    },
+    "2": {
+      "Ticket": 2,
+      "Question": 2
+    },
+    "3": {
+      "Ticket": 3,
+      "Question": 2
+    },
+    "4": {
+      "Ticket": 4,
+      "Question": 2
+    },
+    "5": {
+      "Ticket": 5,
+      "Question": 2
+    },
+    "6": {
+      "Ticket": 6,
+      "Question": 2
+    },
+    "7": {
+      "Ticket": 7,
+      "Question": 2
+    },
+    "8": {
+      "Ticket": 8,
+      "Question": 2
+    },
+    "9": {
+      "Ticket": 9,
+      "Question": 2
+    },
+    "10": {
+      "Ticket": 10,
+      "Question": 2
+    },
+    "11": {
+      "Ticket": 11,
+      "Question": 2
+    },
+    "12": {
+      "Ticket": 12,
+      "Question": 2
+    },
+    "13": {
+      "Ticket": 13,
+      "Question": 2
+    },
+    "14": {
+      "Ticket": 14,
+      "Question": 2
+    },
+    "15": {
+      "Ticket": 15,
+      "Question": 2
+    },
+    "16": {
+      "Ticket": 16,
+      "Question": 2
+    },
+    "17": {
+      "Ticket": 17,
+      "Question": 2
+    },
+    "18": {
+      "Ticket": 18,
+      "Question": 2
+    },
+    "19": {
+      "Ticket": 19,
+      "Question": 2
+    },
+    "20": {
+      "Ticket": 20,
+      "Question": 2
+    },
+    "21": {
+      "Ticket": 21,
+      "Question": 2
+    },
+    "22": {
+      "Ticket": 22,
+      "Question": 2
+    },
+    "23": {
+      "Ticket": 23,
+      "Question": 2
+    },
+    "24": {
+      "Ticket": 24,
+      "Question": 2
+    },
+    "25": {
+      "Ticket": 25,
+      "Question": 2
+    },
+    "26": {
+      "Ticket": 26,
+      "Question": 2
+    },
+    "27": {
+      "Ticket": 27,
+      "Question": 2
+    },
+    "28": {
+      "Ticket": 28,
+      "Question": 2
+    },
+    "29": {
+      "Ticket": 29,
+      "Question": 2
+    },
+    "30": {
+      "Ticket": 30,
+      "Question": 2
+    },
+    "31": {
+      "Ticket": 31,
+      "Question": 2
+    },
+    "32": {
+      "Ticket": 32,
+      "Question": 2
+    },
+    "33": {
+      "Ticket": 33,
+      "Question": 2
+    },
+    "34": {
+      "Ticket": 34,
+      "Question": 2
+    },
+    "35": {
+      "Ticket": 35,
+      "Question": 2
+    },
+    "36": {
+      "Ticket": 36,
+      "Question": 2
+    },
+    "37": {
+      "Ticket": 37,
+      "Question": 2
+    },
+    "38": {
+      "Ticket": 38,
+      "Question": 2
+    },
+    "39": {
+      "Ticket": 39,
+      "Question": 2
+    },
+    "40": {
+      "Ticket": 40,
+      "Question": 2
+    },
+    "41": {
+      "Ticket": 1,
+      "Question": 3
+    },
+    "42": {
+      "Ticket": 2,
+      "Question": 3
+    },
+    "43": {
+      "Ticket": 3,
+      "Question": 3
+    },
+    "44": {
+      "Ticket": 4,
+      "Question": 3
+    },
+    "45": {
+      "Ticket": 5,
+      "Question": 3
+    },
+    "46": {
+      "Ticket": 6,
+      "Question": 3
+    },
+    "47": {
+      "Ticket": 7,
+      "Question": 3
+    },
+    "48": {
+      "Ticket": 8,
+      "Question": 3
+    },
+    "49": {
+      "Ticket": 9,
+      "Question": 3
+    },
+    "50": {
+      "Ticket": 10,
+      "Question": 3
+    },
+    "51": {
+      "Ticket": 11,
+      "Question": 3
+    },
+    "52": {
+      "Ticket": 12,
+      "Question": 3
+    },
+    "53": {
+      "Ticket": 13,
+      "Question": 3
+    },
+    "54": {
+      "Ticket": 14,
+      "Question": 3
+    },
+    "55": {
+      "Ticket": 15,
+      "Question": 3
+    },
+    "56": {
+      "Ticket": 16,
+      "Question": 3
+    },
+    "57": {
+      "Ticket": 17,
+      "Question": 3
+    },
+    "58": {
+      "Ticket": 18,
+      "Question": 3
+    },
+    "59": {
+      "Ticket": 19,
+      "Question": 3
+    },
+    "60": {
+      "Ticket": 20,
+      "Question": 3
+    },
+    "61": {
+      "Ticket": 21,
+      "Question": 3
+    },
+    "62": {
+      "Ticket": 22,
+      "Question": 3
+    },
+    "63": {
+      "Ticket": 23,
+      "Question": 3
+    },
+    "64": {
+      "Ticket": 24,
+      "Question": 3
+    },
+    "65": {
+      "Ticket": 25,
+      "Question": 3
+    },
+    "66": {
+      "Ticket": 26,
+      "Question": 3
+    },
+    "67": {
+      "Ticket": 27,
+      "Question": 3
+    },
+    "68": {
+      "Ticket": 28,
+      "Question": 3
+    },
+    "69": {
+      "Ticket": 29,
+      "Question": 3
+    },
+    "70": {
+      "Ticket": 30,
+      "Question": 3
+    },
+    "71": {
+      "Ticket": 31,
+      "Question": 3
+    },
+    "72": {
+      "Ticket": 32,
+      "Question": 3
+    },
+    "73": {
+      "Ticket": 33,
+      "Question": 3
+    },
+    "74": {
+      "Ticket": 34,
+      "Question": 3
+    },
+    "75": {
+      "Ticket": 35,
+      "Question": 3
+    },
+    "76": {
+      "Ticket": 36,
+      "Question": 3
+    },
+    "77": {
+      "Ticket": 37,
+      "Question": 3
+    },
+    "78": {
+      "Ticket": 38,
+      "Question": 3
+    },
+    "79": {
+      "Ticket": 39,
+      "Question": 3
+    },
+    "80": {
+      "Ticket": 40,
+      "Question": 3
+    },
+    "81": {
+      "Ticket": 1,
+      "Question": 4
+    },
+    "82": {
+      "Ticket": 2,
+      "Question": 4
+    },
+    "83": {
+      "Ticket": 3,
+      "Question": 4
+    },
+    "84": {
+      "Ticket": 4,
+      "Question": 4
+    },
+    "85": {
+      "Ticket": 5,
+      "Question": 4
+    },
+    "86": {
+      "Ticket": 6,
+      "Question": 4
+    },
+    "87": {
+      "Ticket": 7,
+      "Question": 4
+    },
+    "88": {
+      "Ticket": 8,
+      "Question": 4
+    },
+    "89": {
+      "Ticket": 9,
+      "Question": 4
+    },
+    "90": {
+      "Ticket": 10,
+      "Question": 4
+    },
+    "91": {
+      "Ticket": 11,
+      "Question": 4
+    },
+    "92": {
+      "Ticket": 12,
+      "Question": 4
+    },
+    "93": {
+      "Ticket": 13,
+      "Question": 4
+    },
+    "94": {
+      "Ticket": 14,
+      "Question": 4
+    },
+    "95": {
+      "Ticket": 15,
+      "Question": 4
+    },
+    "96": {
+      "Ticket": 16,
+      "Question": 4
+    },
+    "97": {
+      "Ticket": 17,
+      "Question": 4
+    },
+    "98": {
+      "Ticket": 18,
+      "Question": 4
+    },
+    "99": {
+      "Ticket": 19,
+      "Question": 4
+    },
+    "100": {
+      "Ticket": 20,
+      "Question": 4
+    },
+    "101": {
+      "Ticket": 21,
+      "Question": 4
+    },
+    "102": {
+      "Ticket": 22,
+      "Question": 4
+    },
+    "103": {
+      "Ticket": 23,
+      "Question": 4
+    },
+    "104": {
+      "Ticket": 24,
+      "Question": 4
+    },
+    "105": {
+      "Ticket": 25,
+      "Question": 4
+    },
+    "106": {
+      "Ticket": 26,
+      "Question": 4
+    },
+    "107": {
+      "Ticket": 27,
+      "Question": 4
+    },
+    "108": {
+      "Ticket": 28,
+      "Question": 4
+    },
+    "109": {
+      "Ticket": 29,
+      "Question": 4
+    },
+    "110": {
+      "Ticket": 30,
+      "Question": 4
+    },
+    "111": {
+      "Ticket": 31,
+      "Question": 4
+    },
+    "112": {
+      "Ticket": 32,
+      "Question": 4
+    },
+    "113": {
+      "Ticket": 33,
+      "Question": 4
+    },
+    "114": {
+      "Ticket": 34,
+      "Question": 4
+    },
+    "115": {
+      "Ticket": 36,
+      "Question": 4
+    },
+    "116": {
+      "Ticket": 37,
+      "Question": 4
+    },
+    "117": {
+      "Ticket": 38,
+      "Question": 4
+    },
+    "118": {
+      "Ticket": 39,
+      "Question": 4
+    },
+    "119": {
+      "Ticket": 40,
+      "Question": 4
+    },
+    "120": {
+      "Ticket": 3,
+      "Question": 5
+    },
+    "121": {
+      "Ticket": 1,
+      "Question": 10
+    },
+    "122": {
+      "Ticket": 19,
+      "Question": 10
+    },
+    "123": {
+      "Ticket": 20,
+      "Question": 12
+    },
+    "124": {
+      "Ticket": 13,
+      "Question": 15
+    },
+    "125": {
+      "Ticket": 15,
+      "Question": 15
+    },
+    "126": {
+      "Ticket": 23,
+      "Question": 15
+    }
+  },
+  "3": {
+    "1": {
+      "Ticket": 7,
+      "Question": 3
+    },
+    "2": {
+      "Ticket": 1,
+      "Question": 5
+    },
+    "3": {
+      "Ticket": 2,
+      "Question": 5
+    },
+    "4": {
+      "Ticket": 3,
+      "Question": 5
+    },
+    "5": {
+      "Ticket": 4,
+      "Question": 5
+    },
+    "6": {
+      "Ticket": 5,
+      "Question": 5
+    },
+    "7": {
+      "Ticket": 6,
+      "Question": 5
+    },
+    "8": {
+      "Ticket": 7,
+      "Question": 5
+    },
+    "9": {
+      "Ticket": 9,
+      "Question": 5
+    },
+    "10": {
+      "Ticket": 10,
+      "Question": 5
+    },
+    "11": {
+      "Ticket": 11,
+      "Question": 5
+    },
+    "12": {
+      "Ticket": 12,
+      "Question": 5
+    },
+    "13": {
+      "Ticket": 13,
+      "Question": 5
+    },
+    "14": {
+      "Ticket": 14,
+      "Question": 5
+    },
+    "15": {
+      "Ticket": 15,
+      "Question": 5
+    },
+    "16": {
+      "Ticket": 16,
+      "Question": 5
+    },
+    "17": {
+      "Ticket": 17,
+      "Question": 5
+    },
+    "18": {
+      "Ticket": 18,
+      "Question": 5
+    },
+    "19": {
+      "Ticket": 19,
+      "Question": 5
+    },
+    "20": {
+      "Ticket": 20,
+      "Question": 5
+    },
+    "21": {
+      "Ticket": 21,
+      "Question": 5
+    },
+    "22": {
+      "Ticket": 22,
+      "Question": 5
+    },
+    "23": {
+      "Ticket": 23,
+      "Question": 5
+    },
+    "24": {
+      "Ticket": 24,
+      "Question": 5
+    },
+    "25": {
+      "Ticket": 25,
+      "Question": 5
+    },
+    "26": {
+      "Ticket": 26,
+      "Question": 5
+    },
+    "27": {
+      "Ticket": 27,
+      "Question": 5
+    },
+    "28": {
+      "Ticket": 28,
+      "Question": 5
+    },
+    "29": {
+      "Ticket": 29,
+      "Question": 5
+    },
+    "30": {
+      "Ticket": 30,
+      "Question": 5
+    },
+    "31": {
+      "Ticket": 31,
+      "Question": 5
+    },
+    "32": {
+      "Ticket": 32,
+      "Question": 5
+    },
+    "33": {
+      "Ticket": 33,
+      "Question": 5
+    },
+    "34": {
+      "Ticket": 34,
+      "Question": 5
+    },
+    "35": {
+      "Ticket": 35,
+      "Question": 5
+    },
+    "36": {
+      "Ticket": 36,
+      "Question": 5
+    },
+    "37": {
+      "Ticket": 37,
+      "Question": 5
+    },
+    "38": {
+      "Ticket": 38,
+      "Question": 5
+    },
+    "39": {
+      "Ticket": 39,
+      "Question": 5
+    },
+    "40": {
+      "Ticket": 40,
+      "Question": 5
+    }
+  },
+  "4": {
+    "1": {
+      "Ticket": 8,
+      "Question": 5
+    },
+    "2": {
+      "Ticket": 1,
+      "Question": 6
+    },
+    "3": {
+      "Ticket": 2,
+      "Question": 6
+    },
+    "4": {
+      "Ticket": 4,
+      "Question": 6
+    },
+    "5": {
+      "Ticket": 5,
+      "Question": 6
+    },
+    "6": {
+      "Ticket": 6,
+      "Question": 6
+    },
+    "7": {
+      "Ticket": 7,
+      "Question": 6
+    },
+    "8": {
+      "Ticket": 8,
+      "Question": 6
+    },
+    "9": {
+      "Ticket": 9,
+      "Question": 6
+    },
+    "10": {
+      "Ticket": 12,
+      "Question": 6
+    },
+    "11": {
+      "Ticket": 13,
+      "Question": 6
+    },
+    "12": {
+      "Ticket": 14,
+      "Question": 6
+    },
+    "13": {
+      "Ticket": 15,
+      "Question": 6
+    },
+    "14": {
+      "Ticket": 16,
+      "Question": 6
+    },
+    "15": {
+      "Ticket": 17,
+      "Question": 6
+    },
+    "16": {
+      "Ticket": 18,
+      "Question": 6
+    },
+    "17": {
+      "Ticket": 20,
+      "Question": 6
+    },
+    "18": {
+      "Ticket": 21,
+      "Question": 6
+    },
+    "19": {
+      "Ticket": 23,
+      "Question": 6
+    },
+    "20": {
+      "Ticket": 24,
+      "Question": 6
+    },
+    "21": {
+      "Ticket": 25,
+      "Question": 6
+    },
+    "22": {
+      "Ticket": 26,
+      "Question": 6
+    },
+    "23": {
+      "Ticket": 27,
+      "Question": 6
+    },
+    "24": {
+      "Ticket": 28,
+      "Question": 6
+    },
+    "25": {
+      "Ticket": 29,
+      "Question": 6
+    },
+    "26": {
+      "Ticket": 30,
+      "Question": 6
+    },
+    "27": {
+      "Ticket": 31,
+      "Question": 6
+    },
+    "28": {
+      "Ticket": 32,
+      "Question": 6
+    },
+    "29": {
+      "Ticket": 34,
+      "Question": 6
+    },
+    "30": {
+      "Ticket": 35,
+      "Question": 6
+    },
+    "31": {
+      "Ticket": 37,
+      "Question": 6
+    },
+    "32": {
+      "Ticket": 39,
+      "Question": 6
+    },
+    "33": {
+      "Ticket": 40,
+      "Question": 6
+    },
+    "34": {
+      "Ticket": 5,
+      "Question": 13
+    },
+    "35": {
+      "Ticket": 6,
+      "Question": 13
+    },
+    "36": {
+      "Ticket": 12,
+      "Question": 13
+    },
+    "37": {
+      "Ticket": 23,
+      "Question": 13
+    },
+    "38": {
+      "Ticket": 25,
+      "Question": 13
+    },
+    "39": {
+      "Ticket": 27,
+      "Question": 13
+    }
+  },
+  "5": {
+    "1": {
+      "Ticket": 1,
+      "Question": 7
+    },
+    "2": {
+      "Ticket": 2,
+      "Question": 7
+    },
+    "3": {
+      "Ticket": 3,
+      "Question": 7
+    },
+    "4": {
+      "Ticket": 4,
+      "Question": 7
+    },
+    "5": {
+      "Ticket": 5,
+      "Question": 7
+    },
+    "6": {
+      "Ticket": 6,
+      "Question": 7
+    },
+    "7": {
+      "Ticket": 7,
+      "Question": 7
+    },
+    "8": {
+      "Ticket": 8,
+      "Question": 7
+    },
+    "9": {
+      "Ticket": 9,
+      "Question": 7
+    },
+    "10": {
+      "Ticket": 10,
+      "Question": 7
+    },
+    "11": {
+      "Ticket": 11,
+      "Question": 7
+    },
+    "12": {
+      "Ticket": 12,
+      "Question": 7
+    },
+    "13": {
+      "Ticket": 13,
+      "Question": 7
+    },
+    "14": {
+      "Ticket": 14,
+      "Question": 7
+    },
+    "15": {
+      "Ticket": 18,
+      "Question": 7
+    },
+    "16": {
+      "Ticket": 19,
+      "Question": 7
+    },
+    "17": {
+      "Ticket": 21,
+      "Question": 7
+    },
+    "18": {
+      "Ticket": 22,
+      "Question": 7
+    },
+    "19": {
+      "Ticket": 23,
+      "Question": 7
+    },
+    "20": {
+      "Ticket": 24,
+      "Question": 7
+    },
+    "21": {
+      "Ticket": 25,
+      "Question": 7
+    },
+    "22": {
+      "Ticket": 26,
+      "Question": 7
+    },
+    "23": {
+      "Ticket": 27,
+      "Question": 7
+    },
+    "24": {
+      "Ticket": 29,
+      "Question": 7
+    },
+    "25": {
+      "Ticket": 30,
+      "Question": 7
+    },
+    "26": {
+      "Ticket": 31,
+      "Question": 7
+    },
+    "27": {
+      "Ticket": 32,
+      "Question": 7
+    },
+    "28": {
+      "Ticket": 33,
+      "Question": 7
+    },
+    "29": {
+      "Ticket": 36,
+      "Question": 7
+    },
+    "30": {
+      "Ticket": 37,
+      "Question": 7
+    },
+    "31": {
+      "Ticket": 38,
+      "Question": 7
+    },
+    "32": {
+      "Ticket": 1,
+      "Question": 8
+    },
+    "33": {
+      "Ticket": 2,
+      "Question": 8
+    },
+    "34": {
+      "Ticket": 3,
+      "Question": 8
+    },
+    "35": {
+      "Ticket": 4,
+      "Question": 8
+    },
+    "36": {
+      "Ticket": 5,
+      "Question": 8
+    },
+    "37": {
+      "Ticket": 6,
+      "Question": 8
+    },
+    "38": {
+      "Ticket": 7,
+      "Question": 8
+    },
+    "39": {
+      "Ticket": 8,
+      "Question": 8
+    },
+    "40": {
+      "Ticket": 9,
+      "Question": 8
+    },
+    "41": {
+      "Ticket": 10,
+      "Question": 8
+    },
+    "42": {
+      "Ticket": 11,
+      "Question": 8
+    },
+    "43": {
+      "Ticket": 12,
+      "Question": 8
+    },
+    "44": {
+      "Ticket": 13,
+      "Question": 8
+    },
+    "45": {
+      "Ticket": 14,
+      "Question": 8
+    },
+    "46": {
+      "Ticket": 15,
+      "Question": 8
+    },
+    "47": {
+      "Ticket": 16,
+      "Question": 8
+    },
+    "48": {
+      "Ticket": 17,
+      "Question": 8
+    },
+    "49": {
+      "Ticket": 18,
+      "Question": 8
+    },
+    "50": {
+      "Ticket": 19,
+      "Question": 8
+    },
+    "51": {
+      "Ticket": 20,
+      "Question": 8
+    },
+    "52": {
+      "Ticket": 21,
+      "Question": 8
+    },
+    "53": {
+      "Ticket": 22,
+      "Question": 8
+    },
+    "54": {
+      "Ticket": 23,
+      "Question": 8
+    },
+    "55": {
+      "Ticket": 24,
+      "Question": 8
+    },
+    "56": {
+      "Ticket": 25,
+      "Question": 8
+    },
+    "57": {
+      "Ticket": 26,
+      "Question": 8
+    },
+    "58": {
+      "Ticket": 27,
+      "Question": 8
+    },
+    "59": {
+      "Ticket": 28,
+      "Question": 8
+    },
+    "60": {
+      "Ticket": 29,
+      "Question": 8
+    },
+    "61": {
+      "Ticket": 30,
+      "Question": 8
+    },
+    "62": {
+      "Ticket": 31,
+      "Question": 8
+    },
+    "63": {
+      "Ticket": 32,
+      "Question": 8
+    },
+    "64": {
+      "Ticket": 33,
+      "Question": 8
+    },
+    "65": {
+      "Ticket": 34,
+      "Question": 8
+    },
+    "66": {
+      "Ticket": 35,
+      "Question": 8
+    },
+    "67": {
+      "Ticket": 36,
+      "Question": 8
+    },
+    "68": {
+      "Ticket": 37,
+      "Question": 8
+    },
+    "69": {
+      "Ticket": 38,
+      "Question": 8
+    },
+    "70": {
+      "Ticket": 39,
+      "Question": 8
+    },
+    "71": {
+      "Ticket": 40,
+      "Question": 8
+    },
+    "72": {
+      "Ticket": 1,
+      "Question": 9
+    },
+    "73": {
+      "Ticket": 2,
+      "Question": 9
+    },
+    "74": {
+      "Ticket": 3,
+      "Question": 9
+    },
+    "75": {
+      "Ticket": 4,
+      "Question": 9
+    },
+    "76": {
+      "Ticket": 5,
+      "Question": 9
+    },
+    "77": {
+      "Ticket": 6,
+      "Question": 9
+    },
+    "78": {
+      "Ticket": 7,
+      "Question": 9
+    },
+    "79": {
+      "Ticket": 8,
+      "Question": 9
+    },
+    "80": {
+      "Ticket": 9,
+      "Question": 9
+    },
+    "81": {
+      "Ticket": 10,
+      "Question": 9
+    },
+    "82": {
+      "Ticket": 11,
+      "Question": 9
+    },
+    "83": {
+      "Ticket": 12,
+      "Question": 9
+    },
+    "84": {
+      "Ticket": 13,
+      "Question": 9
+    },
+    "85": {
+      "Ticket": 14,
+      "Question": 9
+    },
+    "86": {
+      "Ticket": 15,
+      "Question": 9
+    },
+    "87": {
+      "Ticket": 16,
+      "Question": 9
+    },
+    "88": {
+      "Ticket": 17,
+      "Question": 9
+    },
+    "89": {
+      "Ticket": 18,
+      "Question": 9
+    },
+    "90": {
+      "Ticket": 19,
+      "Question": 9
+    },
+    "91": {
+      "Ticket": 20,
+      "Question": 9
+    },
+    "92": {
+      "Ticket": 21,
+      "Question": 9
+    },
+    "93": {
+      "Ticket": 22,
+      "Question": 9
+    },
+    "94": {
+      "Ticket": 23,
+      "Question": 9
+    },
+    "95": {
+      "Ticket": 24,
+      "Question": 9
+    },
+    "96": {
+      "Ticket": 25,
+      "Question": 9
+    },
+    "97": {
+      "Ticket": 26,
+      "Question": 9
+    },
+    "98": {
+      "Ticket": 27,
+      "Question": 9
+    },
+    "99": {
+      "Ticket": 28,
+      "Question": 9
+    },
+    "100": {
+      "Ticket": 29,
+      "Question": 9
+    },
+    "101": {
+      "Ticket": 30,
+      "Question": 9
+    },
+    "102": {
+      "Ticket": 31,
+      "Question": 9
+    },
+    "103": {
+      "Ticket": 32,
+      "Question": 9
+    },
+    "104": {
+      "Ticket": 33,
+      "Question": 9
+    },
+    "105": {
+      "Ticket": 34,
+      "Question": 9
+    },
+    "106": {
+      "Ticket": 35,
+      "Question": 9
+    },
+    "107": {
+      "Ticket": 36,
+      "Question": 9
+    },
+    "108": {
+      "Ticket": 37,
+      "Question": 9
+    },
+    "109": {
+      "Ticket": 38,
+      "Question": 9
+    },
+    "110": {
+      "Ticket": 39,
+      "Question": 9
+    },
+    "111": {
+      "Ticket": 40,
+      "Question": 9
+    },
+    "112": {
+      "Ticket": 37,
+      "Question": 10
+    },
+    "113": {
+      "Ticket": 6,
+      "Question": 13
+    }
+  },
+  "6": {
+    "1": {
+      "Ticket": 33,
+      "Question": 3
+    },
+    "2": {
+      "Ticket": 5,
+      "Question": 10
+    },
+    "3": {
+      "Ticket": 6,
+      "Question": 10
+    },
+    "4": {
+      "Ticket": 7,
+      "Question": 10
+    },
+    "5": {
+      "Ticket": 12,
+      "Question": 10
+    },
+    "6": {
+      "Ticket": 13,
+      "Question": 10
+    },
+    "7": {
+      "Ticket": 15,
+      "Question": 10
+    },
+    "8": {
+      "Ticket": 16,
+      "Question": 10
+    },
+    "9": {
+      "Ticket": 17,
+      "Question": 10
+    },
+    "10": {
+      "Ticket": 18,
+      "Question": 10
+    },
+    "11": {
+      "Ticket": 19,
+      "Question": 10
+    },
+    "12": {
+      "Ticket": 24,
+      "Question": 10
+    },
+    "13": {
+      "Ticket": 25,
+      "Question": 10
+    },
+    "14": {
+      "Ticket": 31,
+      "Question": 10
+    },
+    "15": {
+      "Ticket": 32,
+      "Question": 10
+    },
+    "16": {
+      "Ticket": 35,
+      "Question": 10
+    },
+    "17": {
+      "Ticket": 38,
+      "Question": 10
+    },
+    "18": {
+      "Ticket": 39,
+      "Question": 10
+    },
+    "19": {
+      "Ticket": 11,
+      "Question": 16
+    }
+  },
+  "7": {
+    "1": {
+      "Ticket": 1,
+      "Question": 11
+    },
+    "2": {
+      "Ticket": 2,
+      "Question": 11
+    },
+    "3": {
+      "Ticket": 3,
+      "Question": 11
+    },
+    "4": {
+      "Ticket": 4,
+      "Question": 11
+    },
+    "5": {
+      "Ticket": 5,
+      "Question": 11
+    },
+    "6": {
+      "Ticket": 6,
+      "Question": 11
+    },
+    "7": {
+      "Ticket": 7,
+      "Question": 11
+    },
+    "8": {
+      "Ticket": 10,
+      "Question": 11
+    },
+    "9": {
+      "Ticket": 11,
+      "Question": 11
+    },
+    "10": {
+      "Ticket": 12,
+      "Question": 11
+    },
+    "11": {
+      "Ticket": 13,
+      "Question": 11
+    },
+    "12": {
+      "Ticket": 14,
+      "Question": 11
+    },
+    "13": {
+      "Ticket": 15,
+      "Question": 11
+    },
+    "14": {
+      "Ticket": 16,
+      "Question": 11
+    },
+    "15": {
+      "Ticket": 17,
+      "Question": 11
+    },
+    "16": {
+      "Ticket": 18,
+      "Question": 11
+    },
+    "17": {
+      "Ticket": 20,
+      "Question": 11
+    },
+    "18": {
+      "Ticket": 21,
+      "Question": 11
+    },
+    "19": {
+      "Ticket": 22,
+      "Question": 11
+    },
+    "20": {
+      "Ticket": 23,
+      "Question": 11
+    },
+    "21": {
+      "Ticket": 24,
+      "Question": 11
+    },
+    "22": {
+      "Ticket": 25,
+      "Question": 11
+    },
+    "23": {
+      "Ticket": 26,
+      "Question": 11
+    },
+    "24": {
+      "Ticket": 27,
+      "Question": 11
+    },
+    "25": {
+      "Ticket": 28,
+      "Question": 11
+    },
+    "26": {
+      "Ticket": 29,
+      "Question": 11
+    },
+    "27": {
+      "Ticket": 30,
+      "Question": 11
+    },
+    "28": {
+      "Ticket": 31,
+      "Question": 11
+    },
+    "29": {
+      "Ticket": 32,
+      "Question": 11
+    },
+    "30": {
+      "Ticket": 33,
+      "Question": 11
+    },
+    "31": {
+      "Ticket": 35,
+      "Question": 11
+    },
+    "32": {
+      "Ticket": 36,
+      "Question": 11
+    },
+    "33": {
+      "Ticket": 37,
+      "Question": 11
+    },
+    "34": {
+      "Ticket": 38,
+      "Question": 11
+    },
+    "35": {
+      "Ticket": 39,
+      "Question": 11
+    },
+    "36": {
+      "Ticket": 40,
+      "Question": 11
+    }
+  },
+  "8": {
+    "1": {
+      "Ticket": 36,
+      "Question": 3
+    },
+    "2": {
+      "Ticket": 5,
+      "Question": 4
+    },
+    "3": {
+      "Ticket": 29,
+      "Question": 4
+    },
+    "4": {
+      "Ticket": 35,
+      "Question": 4
+    },
+    "5": {
+      "Ticket": 37,
+      "Question": 4
+    },
+    "6": {
+      "Ticket": 40,
+      "Question": 4
+    },
+    "7": {
+      "Ticket": 1,
+      "Question": 12
+    },
+    "8": {
+      "Ticket": 2,
+      "Question": 12
+    },
+    "9": {
+      "Ticket": 3,
+      "Question": 12
+    },
+    "10": {
+      "Ticket": 4,
+      "Question": 12
+    },
+    "11": {
+      "Ticket": 5,
+      "Question": 12
+    },
+    "12": {
+      "Ticket": 6,
+      "Question": 12
+    },
+    "13": {
+      "Ticket": 7,
+      "Question": 12
+    },
+    "14": {
+      "Ticket": 8,
+      "Question": 12
+    },
+    "15": {
+      "Ticket": 9,
+      "Question": 12
+    },
+    "16": {
+      "Ticket": 10,
+      "Question": 12
+    },
+    "17": {
+      "Ticket": 11,
+      "Question": 12
+    },
+    "18": {
+      "Ticket": 12,
+      "Question": 12
+    },
+    "19": {
+      "Ticket": 13,
+      "Question": 12
+    },
+    "20": {
+      "Ticket": 14,
+      "Question": 12
+    },
+    "21": {
+      "Ticket": 15,
+      "Question": 12
+    },
+    "22": {
+      "Ticket": 16,
+      "Question": 12
+    },
+    "23": {
+      "Ticket": 17,
+      "Question": 12
+    },
+    "24": {
+      "Ticket": 18,
+      "Question": 12
+    },
+    "25": {
+      "Ticket": 19,
+      "Question": 12
+    },
+    "26": {
+      "Ticket": 20,
+      "Question": 12
+    },
+    "27": {
+      "Ticket": 21,
+      "Question": 12
+    },
+    "28": {
+      "Ticket": 22,
+      "Question": 12
+    },
+    "29": {
+      "Ticket": 23,
+      "Question": 12
+    },
+    "30": {
+      "Ticket": 24,
+      "Question": 12
+    },
+    "31": {
+      "Ticket": 25,
+      "Question": 12
+    },
+    "32": {
+      "Ticket": 26,
+      "Question": 12
+    },
+    "33": {
+      "Ticket": 27,
+      "Question": 12
+    },
+    "34": {
+      "Ticket": 28,
+      "Question": 12
+    },
+    "35": {
+      "Ticket": 29,
+      "Question": 12
+    },
+    "36": {
+      "Ticket": 30,
+      "Question": 12
+    },
+    "37": {
+      "Ticket": 31,
+      "Question": 12
+    },
+    "38": {
+      "Ticket": 32,
+      "Question": 12
+    },
+    "39": {
+      "Ticket": 33,
+      "Question": 12
+    },
+    "40": {
+      "Ticket": 34,
+      "Question": 12
+    },
+    "41": {
+      "Ticket": 35,
+      "Question": 12
+    },
+    "42": {
+      "Ticket": 36,
+      "Question": 12
+    },
+    "43": {
+      "Ticket": 37,
+      "Question": 12
+    },
+    "44": {
+      "Ticket": 38,
+      "Question": 12
+    },
+    "45": {
+      "Ticket": 39,
+      "Question": 12
+    },
+    "46": {
+      "Ticket": 40,
+      "Question": 12
+    },
+    "47": {
+      "Ticket": 23,
+      "Question": 16
+    }
+  },
+  "9": {
+    "1": {
+      "Ticket": 10,
+      "Question": 6
+    },
+    "2": {
+      "Ticket": 1,
+      "Question": 13
+    },
+    "3": {
+      "Ticket": 2,
+      "Question": 13
+    },
+    "4": {
+      "Ticket": 3,
+      "Question": 13
+    },
+    "5": {
+      "Ticket": 4,
+      "Question": 13
+    },
+    "6": {
+      "Ticket": 7,
+      "Question": 13
+    },
+    "7": {
+      "Ticket": 8,
+      "Question": 13
+    },
+    "8": {
+      "Ticket": 9,
+      "Question": 13
+    },
+    "9": {
+      "Ticket": 10,
+      "Question": 13
+    },
+    "10": {
+      "Ticket": 13,
+      "Question": 13
+    },
+    "11": {
+      "Ticket": 13,
+      "Question": 13
+    },
+    "12": {
+      "Ticket": 14,
+      "Question": 13
+    },
+    "13": {
+      "Ticket": 15,
+      "Question": 13
+    },
+    "14": {
+      "Ticket": 16,
+      "Question": 13
+    },
+    "15": {
+      "Ticket": 17,
+      "Question": 13
+    },
+    "16": {
+      "Ticket": 18,
+      "Question": 13
+    },
+    "17": {
+      "Ticket": 19,
+      "Question": 13
+    },
+    "18": {
+      "Ticket": 20,
+      "Question": 13
+    },
+    "19": {
+      "Ticket": 21,
+      "Question": 13
+    },
+    "20": {
+      "Ticket": 22,
+      "Question": 13
+    },
+    "21": {
+      "Ticket": 24,
+      "Question": 13
+    },
+    "22": {
+      "Ticket": 26,
+      "Question": 13
+    },
+    "23": {
+      "Ticket": 28,
+      "Question": 13
+    },
+    "24": {
+      "Ticket": 29,
+      "Question": 13
+    },
+    "25": {
+      "Ticket": 30,
+      "Question": 13
+    },
+    "26": {
+      "Ticket": 31,
+      "Question": 13
+    },
+    "27": {
+      "Ticket": 32,
+      "Question": 13
+    },
+    "28": {
+      "Ticket": 33,
+      "Question": 13
+    },
+    "29": {
+      "Ticket": 34,
+      "Question": 13
+    },
+    "30": {
+      "Ticket": 35,
+      "Question": 13
+    },
+    "31": {
+      "Ticket": 36,
+      "Question": 13
+    },
+    "32": {
+      "Ticket": 37,
+      "Question": 13
+    },
+    "33": {
+      "Ticket": 38,
+      "Question": 13
+    },
+    "34": {
+      "Ticket": 39,
+      "Question": 13
+    },
+    "35": {
+      "Ticket": 40,
+      "Question": 13
+    },
+    "36": {
+      "Ticket": 1,
+      "Question": 14
+    },
+    "37": {
+      "Ticket": 2,
+      "Question": 14
+    },
+    "38": {
+      "Ticket": 3,
+      "Question": 14
+    },
+    "39": {
+      "Ticket": 5,
+      "Question": 14
+    },
+    "40": {
+      "Ticket": 6,
+      "Question": 14
+    },
+    "41": {
+      "Ticket": 7,
+      "Question": 14
+    },
+    "42": {
+      "Ticket": 8,
+      "Question": 14
+    },
+    "43": {
+      "Ticket": 9,
+      "Question": 14
+    },
+    "44": {
+      "Ticket": 10,
+      "Question": 14
+    },
+    "45": {
+      "Ticket": 11,
+      "Question": 14
+    },
+    "46": {
+      "Ticket": 12,
+      "Question": 14
+    },
+    "47": {
+      "Ticket": 13,
+      "Question": 14
+    },
+    "48": {
+      "Ticket": 14,
+      "Question": 14
+    },
+    "49": {
+      "Ticket": 15,
+      "Question": 14
+    },
+    "50": {
+      "Ticket": 16,
+      "Question": 14
+    },
+    "51": {
+      "Ticket": 17,
+      "Question": 14
+    },
+    "52": {
+      "Ticket": 18,
+      "Question": 14
+    },
+    "53": {
+      "Ticket": 19,
+      "Question": 14
+    },
+    "54": {
+      "Ticket": 20,
+      "Question": 14
+    },
+    "55": {
+      "Ticket": 21,
+      "Question": 14
+    },
+    "56": {
+      "Ticket": 22,
+      "Question": 14
+    },
+    "57": {
+      "Ticket": 23,
+      "Question": 14
+    },
+    "58": {
+      "Ticket": 24,
+      "Question": 14
+    },
+    "59": {
+      "Ticket": 25,
+      "Question": 14
+    },
+    "60": {
+      "Ticket": 26,
+      "Question": 14
+    },
+    "61": {
+      "Ticket": 27,
+      "Question": 14
+    },
+    "62": {
+      "Ticket": 28,
+      "Question": 14
+    },
+    "63": {
+      "Ticket": 29,
+      "Question": 14
+    },
+    "64": {
+      "Ticket": 30,
+      "Question": 14
+    },
+    "65": {
+      "Ticket": 31,
+      "Question": 14
+    },
+    "66": {
+      "Ticket": 32,
+      "Question": 14
+    },
+    "67": {
+      "Ticket": 33,
+      "Question": 14
+    },
+    "68": {
+      "Ticket": 34,
+      "Question": 14
+    },
+    "69": {
+      "Ticket": 35,
+      "Question": 14
+    },
+    "70": {
+      "Ticket": 36,
+      "Question": 14
+    },
+    "71": {
+      "Ticket": 37,
+      "Question": 14
+    },
+    "72": {
+      "Ticket": 38,
+      "Question": 14
+    },
+    "73": {
+      "Ticket": 39,
+      "Question": 14
+    },
+    "74": {
+      "Ticket": 40,
+      "Question": 14
+    },
+    "75": {
+      "Ticket": 1,
+      "Question": 15
+    },
+    "76": {
+      "Ticket": 2,
+      "Question": 15
+    },
+    "77": {
+      "Ticket": 3,
+      "Question": 15
+    },
+    "78": {
+      "Ticket": 4,
+      "Question": 15
+    },
+    "79": {
+      "Ticket": 5,
+      "Question": 15
+    },
+    "80": {
+      "Ticket": 7,
+      "Question": 15
+    },
+    "81": {
+      "Ticket": 8,
+      "Question": 15
+    },
+    "82": {
+      "Ticket": 9,
+      "Question": 15
+    },
+    "83": {
+      "Ticket": 10,
+      "Question": 15
+    },
+    "84": {
+      "Ticket": 11,
+      "Question": 15
+    },
+    "85": {
+      "Ticket": 12,
+      "Question": 15
+    },
+    "86": {
+      "Ticket": 13,
+      "Question": 15
+    },
+    "87": {
+      "Ticket": 14,
+      "Question": 15
+    },
+    "88": {
+      "Ticket": 15,
+      "Question": 15
+    },
+    "89": {
+      "Ticket": 16,
+      "Question": 15
+    },
+    "90": {
+      "Ticket": 17,
+      "Question": 15
+    },
+    "91": {
+      "Ticket": 18,
+      "Question": 15
+    },
+    "92": {
+      "Ticket": 19,
+      "Question": 15
+    },
+    "93": {
+      "Ticket": 20,
+      "Question": 15
+    },
+    "94": {
+      "Ticket": 21,
+      "Question": 15
+    },
+    "95": {
+      "Ticket": 22,
+      "Question": 15
+    },
+    "96": {
+      "Ticket": 23,
+      "Question": 15
+    },
+    "97": {
+      "Ticket": 24,
+      "Question": 15
+    },
+    "98": {
+      "Ticket": 25,
+      "Question": 15
+    },
+    "99": {
+      "Ticket": 26,
+      "Question": 15
+    },
+    "100": {
+      "Ticket": 27,
+      "Question": 15
+    },
+    "101": {
+      "Ticket": 28,
+      "Question": 15
+    },
+    "102": {
+      "Ticket": 29,
+      "Question": 15
+    },
+    "103": {
+      "Ticket": 30,
+      "Question": 15
+    },
+    "104": {
+      "Ticket": 31,
+      "Question": 15
+    },
+    "105": {
+      "Ticket": 32,
+      "Question": 15
+    },
+    "106": {
+      "Ticket": 33,
+      "Question": 15
+    },
+    "107": {
+      "Ticket": 34,
+      "Question": 15
+    },
+    "108": {
+      "Ticket": 35,
+      "Question": 15
+    },
+    "109": {
+      "Ticket": 36,
+      "Question": 15
+    },
+    "110": {
+      "Ticket": 37,
+      "Question": 15
+    },
+    "111": {
+      "Ticket": 38,
+      "Question": 15
+    },
+    "112": {
+      "Ticket": 39,
+      "Question": 15
+    },
+    "113": {
+      "Ticket": 40,
+      "Question": 15
+    }
+  },
+  "10": {
+    "1": {
+      "Ticket": 5,
+      "Question": 17
+    },
+    "2": {
+      "Ticket": 8,
+      "Question": 17
+    },
+    "3": {
+      "Ticket": 10,
+      "Question": 17
+    },
+    "4": {
+      "Ticket": 11,
+      "Question": 17
+    },
+    "5": {
+      "Ticket": 12,
+      "Question": 17
+    },
+    "6": {
+      "Ticket": 13,
+      "Question": 17
+    },
+    "7": {
+      "Ticket": 15,
+      "Question": 17
+    },
+    "8": {
+      "Ticket": 19,
+      "Question": 17
+    },
+    "9": {
+      "Ticket": 20,
+      "Question": 17
+    },
+    "10": {
+      "Ticket": 21,
+      "Question": 17
+    },
+    "11": {
+      "Ticket": 22,
+      "Question": 17
+    },
+    "12": {
+      "Ticket": 23,
+      "Question": 17
+    },
+    "13": {
+      "Ticket": 24,
+      "Question": 17
+    },
+    "14": {
+      "Ticket": 25,
+      "Question": 17
+    },
+    "15": {
+      "Ticket": 28,
+      "Question": 17
+    },
+    "16": {
+      "Ticket": 29,
+      "Question": 17
+    },
+    "17": {
+      "Ticket": 30,
+      "Question": 17
+    },
+    "18": {
+      "Ticket": 31,
+      "Question": 17
+    },
+    "19": {
+      "Ticket": 33,
+      "Question": 17
+    },
+    "20": {
+      "Ticket": 34,
+      "Question": 17
+    },
+    "21": {
+      "Ticket": 35,
+      "Question": 17
+    },
+    "22": {
+      "Ticket": 36,
+      "Question": 17
+    },
+    "23": {
+      "Ticket": 10,
+      "Question": 19
+    }
+  },
+  "11": {
+    "1": {
+      "Ticket": 1,
+      "Question": 18
+    },
+    "2": {
+      "Ticket": 2,
+      "Question": 18
+    },
+    "3": {
+      "Ticket": 3,
+      "Question": 18
+    },
+    "4": {
+      "Ticket": 4,
+      "Question": 18
+    },
+    "5": {
+      "Ticket": 5,
+      "Question": 18
+    },
+    "6": {
+      "Ticket": 6,
+      "Question": 18
+    },
+    "7": {
+      "Ticket": 7,
+      "Question": 18
+    },
+    "8": {
+      "Ticket": 8,
+      "Question": 18
+    },
+    "9": {
+      "Ticket": 9,
+      "Question": 18
+    },
+    "10": {
+      "Ticket": 10,
+      "Question": 18
+    },
+    "11": {
+      "Ticket": 12,
+      "Question": 18
+    },
+    "12": {
+      "Ticket": 13,
+      "Question": 18
+    },
+    "13": {
+      "Ticket": 14,
+      "Question": 18
+    },
+    "14": {
+      "Ticket": 15,
+      "Question": 18
+    },
+    "15": {
+      "Ticket": 16,
+      "Question": 18
+    },
+    "16": {
+      "Ticket": 22,
+      "Question": 18
+    },
+    "17": {
+      "Ticket": 24,
+      "Question": 18
+    },
+    "18": {
+      "Ticket": 25,
+      "Question": 18
+    },
+    "19": {
+      "Ticket": 26,
+      "Question": 18
+    },
+    "20": {
+      "Ticket": 28,
+      "Question": 18
+    },
+    "21": {
+      "Ticket": 29,
+      "Question": 18
+    },
+    "22": {
+      "Ticket": 31,
+      "Question": 18
+    },
+    "23": {
+      "Ticket": 32,
+      "Question": 18
+    },
+    "24": {
+      "Ticket": 35,
+      "Question": 18
+    },
+    "25": {
+      "Ticket": 37,
+      "Question": 18
+    },
+    "26": {
+      "Ticket": 39,
+      "Question": 18
+    }
+  },
+  "12": {
+    "1": {
+      "Ticket": 10,
+      "Question": 10
+    },
+    "2": {
+      "Ticket": 1,
+      "Question": 19
+    },
+    "3": {
+      "Ticket": 2,
+      "Question": 19
+    },
+    "4": {
+      "Ticket": 3,
+      "Question": 19
+    },
+    "5": {
+      "Ticket": 4,
+      "Question": 19
+    },
+    "6": {
+      "Ticket": 5,
+      "Question": 19
+    },
+    "7": {
+      "Ticket": 6,
+      "Question": 19
+    },
+    "8": {
+      "Ticket": 7,
+      "Question": 19
+    },
+    "9": {
+      "Ticket": 8,
+      "Question": 19
+    },
+    "10": {
+      "Ticket": 9,
+      "Question": 19
+    },
+    "41": {
+      "Ticket": 1,
+      "Question": 20
+    },
+    "42": {
+      "Ticket": 5,
+      "Question": 20
+    },
+    "43": {
+      "Ticket": 9,
+      "Question": 20
+    },
+    "44": {
+      "Ticket": 11,
+      "Question": 20
+    },
+    "45": {
+      "Ticket": 14,
+      "Question": 20
+    },
+    "46": {
+      "Ticket": 17,
+      "Question": 20
+    },
+    "47": {
+      "Ticket": 18,
+      "Question": 20
+    },
+    "48": {
+      "Ticket": 20,
+      "Question": 20
+    },
+    "49": {
+      "Ticket": 22,
+      "Question": 20
+    },
+    "50": {
+      "Ticket": 23,
+      "Question": 20
+    },
+    "51": {
+      "Ticket": 26,
+      "Question": 20
+    },
+    "52": {
+      "Ticket": 27,
+      "Question": 20
+    },
+    "53": {
+      "Ticket": 28,
+      "Question": 20
+    },
+    "54": {
+      "Ticket": 30,
+      "Question": 20
+    },
+    "55": {
+      "Ticket": 31,
+      "Question": 20
+    },
+    "56": {
+      "Ticket": 33,
+      "Question": 20
+    },
+    "57": {
+      "Ticket": 35,
+      "Question": 20
+    },
+    "58": {
+      "Ticket": 36,
+      "Question": 20
+    },
+    "59": {
+      "Ticket": 39,
+      "Question": 20
+    }
+  },
+  "13": {
+    "1": {
+      "Ticket": 2,
+      "Question": 20
+    },
+    "2": {
+      "Ticket": 3,
+      "Question": 20
+    },
+    "3": {
+      "Ticket": 4,
+      "Question": 20
+    },
+    "4": {
+      "Ticket": 7,
+      "Question": 20
+    },
+    "5": {
+      "Ticket": 8,
+      "Question": 20
+    },
+    "6": {
+      "Ticket": 10,
+      "Question": 20
+    },
+    "7": {
+      "Ticket": 12,
+      "Question": 20
+    },
+    "8": {
+      "Ticket": 13,
+      "Question": 20
+    },
+    "9": {
+      "Ticket": 15,
+      "Question": 20
+    },
+    "10": {
+      "Ticket": 16,
+      "Question": 20
+    },
+    "11": {
+      "Ticket": 19,
+      "Question": 20
+    },
+    "12": {
+      "Ticket": 21,
+      "Question": 20
+    },
+    "13": {
+      "Ticket": 24,
+      "Question": 20
+    },
+    "14": {
+      "Ticket": 25,
+      "Question": 20
+    },
+    "15": {
+      "Ticket": 29,
+      "Question": 20
+    },
+    "16": {
+      "Ticket": 32,
+      "Question": 20
+    },
+    "17": {
+      "Ticket": 34,
+      "Question": 20
+    },
+    "18": {
+      "Ticket": 37,
+      "Question": 20
+    },
+    "19": {
+      "Ticket": 38,
+      "Question": 20
+    },
+    "20": {
+      "Ticket": 40,
+      "Question": 20
+    }
+  },
+  "14": {
+    "1": {
+      "Ticket": 7,
+      "Question": 1
+    },
+    "2": {
+      "Ticket": 8,
+      "Question": 1
+    },
+    "3": {
+      "Ticket": 9,
+      "Question": 1
+    },
+    "4": {
+      "Ticket": 12,
+      "Question": 1
+    },
+    "5": {
+      "Ticket": 16,
+      "Question": 1
+    },
+    "6": {
+      "Ticket": 20,
+      "Question": 1
+    },
+    "7": {
+      "Ticket": 21,
+      "Question": 1
+    },
+    "8": {
+      "Ticket": 24,
+      "Question": 1
+    },
+    "9": {
+      "Ticket": 27,
+      "Question": 1
+    },
+    "10": {
+      "Ticket": 28,
+      "Question": 1
+    },
+    "11": {
+      "Ticket": 31,
+      "Question": 1
+    },
+    "12": {
+      "Ticket": 32,
+      "Question": 1
+    },
+    "13": {
+      "Ticket": 37,
+      "Question": 1
+    },
+    "14": {
+      "Ticket": 39,
+      "Question": 1
+    },
+    "15": {
+      "Ticket": 40,
+      "Question": 1
+    }
+  },
+  "15": {
+    "1": {
+      "Ticket": 2,
+      "Question": 10
+    },
+    "2": {
+      "Ticket": 3,
+      "Question": 10
+    },
+    "3": {
+      "Ticket": 4,
+      "Question": 10
+    },
+    "4": {
+      "Ticket": 8,
+      "Question": 10
+    },
+    "5": {
+      "Ticket": 9,
+      "Question": 10
+    },
+    "6": {
+      "Ticket": 11,
+      "Question": 10
+    },
+    "7": {
+      "Ticket": 14,
+      "Question": 10
+    },
+    "8": {
+      "Ticket": 20,
+      "Question": 10
+    },
+    "9": {
+      "Ticket": 21,
+      "Question": 10
+    },
+    "10": {
+      "Ticket": 22,
+      "Question": 10
+    },
+    "11": {
+      "Ticket": 23,
+      "Question": 10
+    },
+    "12": {
+      "Ticket": 26,
+      "Question": 10
+    },
+    "13": {
+      "Ticket": 27,
+      "Question": 10
+    },
+    "14": {
+      "Ticket": 28,
+      "Question": 10
+    },
+    "15": {
+      "Ticket": 29,
+      "Question": 10
+    },
+    "16": {
+      "Ticket": 30,
+      "Question": 10
+    },
+    "17": {
+      "Ticket": 33,
+      "Question": 10
+    },
+    "18": {
+      "Ticket": 34,
+      "Question": 10
+    },
+    "19": {
+      "Ticket": 36,
+      "Question": 10
+    },
+    "20": {
+      "Ticket": 40,
+      "Question": 10
+    },
+    "21": {
+      "Ticket": 8,
+      "Question": 11
+    },
+    "22": {
+      "Ticket": 9,
+      "Question": 11
+    },
+    "23": {
+      "Ticket": 19,
+      "Question": 11
+    },
+    "24": {
+      "Ticket": 34,
+      "Question": 11
+    }
+  },
+  "16": {
+    "1": {
+      "Ticket": 13,
+      "Question": 16
+    },
+    "2": {
+      "Ticket": 15,
+      "Question": 16
+    },
+    "3": {
+      "Ticket": 17,
+      "Question": 16
+    },
+    "4": {
+      "Ticket": 18,
+      "Question": 16
+    },
+    "5": {
+      "Ticket": 19,
+      "Question": 16
+    }
+  },
+  "17": {
+    "1": {
+      "Ticket": 2,
+      "Question": 17
+    },
+    "2": {
+      "Ticket": 4,
+      "Question": 17
+    },
+    "3": {
+      "Ticket": 14,
+      "Question": 17
+    },
+    "4": {
+      "Ticket": 17,
+      "Question": 17
+    },
+    "5": {
+      "Ticket": 18,
+      "Question": 17
+    },
+    "6": {
+      "Ticket": 27,
+      "Question": 17
+    },
+    "7": {
+      "Ticket": 39,
+      "Question": 17
+    },
+    "8": {
+      "Ticket": 40,
+      "Question": 17
+    }
+  },
+  "18": {
+    "1": {
+      "Ticket": 3,
+      "Question": 6
+    },
+    "2": {
+      "Ticket": 11,
+      "Question": 6
+    },
+    "3": {
+      "Ticket": 19,
+      "Question": 6
+    },
+    "4": {
+      "Ticket": 22,
+      "Question": 6
+    },
+    "5": {
+      "Ticket": 33,
+      "Question": 6
+    },
+    "6": {
+      "Ticket": 36,
+      "Question": 6
+    },
+    "7": {
+      "Ticket": 38,
+      "Question": 6
+    },
+    "8": {
+      "Ticket": 12,
+      "Question": 14
+    },
+    "9": {
+      "Ticket": 6,
+      "Question": 15
+    }
+  },
+  "19": {
+    "1": {
+      "Ticket": 3,
+      "Question": 16
+    },
+    "2": {
+      "Ticket": 8,
+      "Question": 16
+    },
+    "3": {
+      "Ticket": 9,
+      "Question": 16
+    },
+    "4": {
+      "Ticket": 12,
+      "Question": 16
+    },
+    "5": {
+      "Ticket": 14,
+      "Question": 16
+    },
+    "6": {
+      "Ticket": 16,
+      "Question": 16
+    },
+    "7": {
+      "Ticket": 28,
+      "Question": 16
+    },
+    "8": {
+      "Ticket": 29,
+      "Question": 16
+    },
+    "9": {
+      "Ticket": 31,
+      "Question": 16
+    },
+    "10": {
+      "Ticket": 32,
+      "Question": 16
+    },
+    "11": {
+      "Ticket": 33,
+      "Question": 16
+    },
+    "12": {
+      "Ticket": 37,
+      "Question": 16
+    },
+    "13": {
+      "Ticket": 39,
+      "Question": 16
+    }
+  },
+  "20": {
+    "1": {
+      "Ticket": 3,
+      "Question": 17
+    },
+    "2": {
+      "Ticket": 6,
+      "Question": 17
+    },
+    "3": {
+      "Ticket": 9,
+      "Question": 17
+    },
+    "4": {
+      "Ticket": 37,
+      "Question": 17
+    }
+  },
+  "21": {
+    "1": {
+      "Ticket": 1,
+      "Question": 16
+    },
+    "2": {
+      "Ticket": 4,
+      "Question": 16
+    },
+    "3": {
+      "Ticket": 7,
+      "Question": 16
+    },
+    "4": {
+      "Ticket": 11,
+      "Question": 16
+    },
+    "5": {
+      "Ticket": 21,
+      "Question": 16
+    },
+    "6": {
+      "Ticket": 22,
+      "Question": 16
+    },
+    "7": {
+      "Ticket": 36,
+      "Question": 16
+    }
+  },
+  "22": {
+    "1": {
+      "Ticket": 13,
+      "Question": 6
+    },
+    "2": {
+      "Ticket": 2,
+      "Question": 16
+    },
+    "3": {
+      "Ticket": 5,
+      "Question": 16
+    },
+    "4": {
+      "Ticket": 10,
+      "Question": 16
+    },
+    "5": {
+      "Ticket": 20,
+      "Question": 16
+    },
+    "6": {
+      "Ticket": 24,
+      "Question": 16
+    },
+    "7": {
+      "Ticket": 25,
+      "Question": 16
+    },
+    "8": {
+      "Ticket": 27,
+      "Question": 16
+    },
+    "9": {
+      "Ticket": 34,
+      "Question": 16
+    },
+    "10": {
+      "Ticket": 35,
+      "Question": 16
+    },
+    "11": {
+      "Ticket": 40,
+      "Question": 16
+    }
+  },
+  "23": {
+    "1": {
+      "Ticket": 4,
+      "Question": 14
+    },
+    "2": {
+      "Ticket": 6,
+      "Question": 16
+    },
+    "3": {
+      "Ticket": 26,
+      "Question": 16
+    },
+    "4": {
+      "Ticket": 30,
+      "Question": 16
+    },
+    "5": {
+      "Ticket": 38,
+      "Question": 16
+    }
+  },
+  "24": {
+    "1": {
+      "Ticket": 1,
+      "Question": 17
+    },
+    "2": {
+      "Ticket": 7,
+      "Question": 17
+    },
+    "3": {
+      "Ticket": 16,
+      "Question": 17
+    },
+    "4": {
+      "Ticket": 26,
+      "Question": 17
+    },
+    "5": {
+      "Ticket": 32,
+      "Question": 17
+    },
+    "6": {
+      "Ticket": 38,
+      "Question": 17
+    }
+  },
+  "25": {
+    "1": {
+      "Ticket": 11,
+      "Question": 18
+    },
+    "2": {
+      "Ticket": 17,
+      "Question": 18
+    },
+    "3": {
+      "Ticket": 18,
+      "Question": 18
+    },
+    "4": {
+      "Ticket": 19,
+      "Question": 18
+    },
+    "5": {
+      "Ticket": 20,
+      "Question": 18
+    },
+    "6": {
+      "Ticket": 21,
+      "Question": 18
+    },
+    "7": {
+      "Ticket": 23,
+      "Question": 18
+    },
+    "8": {
+      "Ticket": 27,
+      "Question": 18
+    },
+    "9": {
+      "Ticket": 30,
+      "Question": 18
+    },
+    "10": {
+      "Ticket": 33,
+      "Question": 18
+    },
+    "11": {
+      "Ticket": 34,
+      "Question": 18
+    },
+    "12": {
+      "Ticket": 36,
+      "Question": 18
+    },
+    "13": {
+      "Ticket": 38,
+      "Question": 18
+    },
+    "14": {
+      "Ticket": 40,
+      "Question": 18
+    },
+    "15": {
+      "Ticket": 6,
+      "Question": 20
+    }
+  },
+  "26": {
+    "1": {
+      "Ticket": 15,
+      "Question": 7
+    },
+    "2": {
+      "Ticket": 16,
+      "Question": 7
+    },
+    "3": {
+      "Ticket": 17,
+      "Question": 7
+    },
+    "4": {
+      "Ticket": 20,
+      "Question": 7
+    },
+    "5": {
+      "Ticket": 28,
+      "Question": 7
+    },
+    "6": {
+      "Ticket": 34,
+      "Question": 7
+    },
+    "7": {
+      "Ticket": 35,
+      "Question": 7
+    },
+    "8": {
+      "Ticket": 39,
+      "Question": 7
+    },
+    "9": {
+      "Ticket": 40,
+      "Question": 7
+    }
+  }
+}
